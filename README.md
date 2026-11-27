@@ -33,7 +33,7 @@
 
 ## Background
 
-Randolph Vusi Dube is a solutions architect and AI entrepreneur. For nearly twenty years he has worked in payments and data systems, shipping billing platforms, customer-data models and payment migrations that had to pass audit at institutions such as Barclays, Lloyds and WorldPay. The lesson that stayed with him is this: what a system really does lives in the exceptions people remember and nobody writes down.
+Randolph Vusi Dube is a solutions architect and AI entrepreneur. For nearly twenty years he has worked in payments and data systems, shipping billing platforms, customer-data models and payment migrations that had to pass regulated-industry audit. Building MIRA draws on that depth, together with hands-on experience in agent architectures, local AI runtimes and human-in-the-loop control design. The lesson that stayed with him is this: what a system really does lives in the exceptions people remember and nobody writes down.
 
 ## What MIRA is
 
