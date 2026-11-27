@@ -226,8 +226,8 @@ This repository is a specification. It contains no runnable MIRA runtime. The st
 **Available now.** You need Git. Clone this public repository:
 
 ```bash
-git clone https://github.com/intellimira/mira-acct.git
-cd mira-acct
+git clone https://github.com/intellimira/mira-acct-protocol.git
+cd mira-acct-protocol
 ```
 
 **Optional, invite-only.** A private reference implementation exists at `intellimira/mira-oj`. It is not public. If the author has given you access:
@@ -313,8 +313,8 @@ No further setup is needed to read the protocol or to start that drafting conver
 Clone the public repository and read the same documents:
 
 ```bash
-git clone https://github.com/intellimira/mira-acct.git
-cd mira-acct
+git clone https://github.com/intellimira/mira-acct-protocol.git
+cd mira-acct-protocol
 ```
 
 Optionally copy the illustrative seed skeleton from [The seed file](#the-seed-file) into a local file if you want something to edit. Then start a drafting conversation with an assistant like MIRA Propagator, holding anything outbound for your approval.
@@ -341,5 +341,5 @@ This is early work. The present repository is a specification in progress. There
 
 ## Links
 
-- This repository: [https://github.com/intellimira/mira-acct](https://github.com/intellimira/mira-acct-protocol)
+- This repository: [https://github.com/intellimira/mira-acct-protocol](https://github.com/intellimira/mira-acct-protocol)
 - IntelliGrowth: [https://linkedin.com/company/intelligrowthai](https://linkedin.com/company/intelligrowthai)
